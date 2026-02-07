@@ -24,8 +24,8 @@ The hardest part wasn't the AI—it was cleaning up the raw HTML so the model wo
 
 1.  **Clone this repo:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ai-brochure-generator.git](https://github.com/YOUR_USERNAME/ai-brochure-generator.git)
-    cd ai-brochure-generator
+    git clone [https://github.com/Danish1323/Brochure-Generator.git]
+    cd Brochure-Generator
     ```
 
 2.  **Install the dependencies:**
@@ -40,7 +40,7 @@ The hardest part wasn't the AI—it was cleaning up the raw HTML so the model wo
     ```
 
 4.  **Run the notebook:**
-    Open `project2.ipynb` in Jupyter or VS Code, change the URL in the last cell to whatever company you want to research, and hit run!
+    Open `brochure-gen.ipynb` in Jupyter or VS Code, change the URL in the last cell to whatever company you want to research, and hit run!
 
 ## 🔮 What's next?
 I'm planning to upgrade this by:
@@ -49,4 +49,4 @@ I'm planning to upgrade this by:
 * Dockerizing it so it's easier to deploy.
 
 ---
-*Built by [Your Name] while learning AI Engineering.*
+*Built by Danish while learning AI Engineering.*
